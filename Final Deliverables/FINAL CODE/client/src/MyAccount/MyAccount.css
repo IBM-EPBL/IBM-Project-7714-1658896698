@@ -1,0 +1,25 @@
+.logout {
+    background-color:rgb(88, 39, 39);
+    color:white;
+    height:40px;
+    width:280px;
+    cursor:pointer;
+    opacity: 0.9;
+}
+
+.delete-account {
+    background-color:red;
+    color:white;
+    height:40px;
+    width:280px;
+    cursor:pointer;
+    opacity: 0.9;
+}
+
+.logout:hover {
+    opacity: 1;
+  }
+
+.delete-account:hover {
+opacity: 1;
+}

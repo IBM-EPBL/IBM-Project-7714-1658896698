@@ -1,0 +1,56 @@
+.bg-black {
+  background-color: black;
+}
+
+.table-center {
+    border: 5px solid white;
+  }
+
+.my-table {
+  border: 3px solid rgb(150, 150, 150);
+  table-layout: fixed;
+  width: 1000px;
+  margin-right: 30px;
+}
+
+.my-td {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+  padding-right: 20px;
+  text-align: center;
+  table-layout: fixed;
+  width: 200px;
+  border-right: 1px solid red;
+  }
+
+.my-th {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+  padding-right: 40px;
+  text-align: center;
+  border: 3px solid rgb(150, 150, 150);
+  width: 200px;
+}
+
+.add-favorites {
+  background-color:brown;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  opacity: 0.9;
+  border-radius: 10px;
+}
+
+.add-favorites:hover {
+  opacity: 1;
+}
+
+
+.gray-background {
+  background-color:rgb(33, 33, 33);
+  color: white
+}
+

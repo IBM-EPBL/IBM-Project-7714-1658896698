@@ -1,0 +1,25 @@
+.review {
+    height:60px;
+}
+
+
+.review-submit {
+    color: black;
+    background-color:white;
+}
+
+.green-button {
+    background-color: green; 
+    color: white;
+    padding: 16px 20px;
+    border: none;
+    cursor: pointer;
+    opacity: 0.9;
+    border-radius: 10px;
+}
+
+.green-button:hover {
+    opacity: 1;
+  }
+
+
